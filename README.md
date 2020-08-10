@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Orth</h1>
-<h3 align="center">Skilled Full Stack Developer. Passionate about ML, microservices and containerization</h3>
+<h3 align="center">Skilled Full Stack Developer. Passionate about ML, microservices and containers (:blue_heart: docker)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomorth" alt="tomorth" /> </p>
 
