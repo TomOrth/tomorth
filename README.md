@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Angular, and More ML Concepts**
 
-- 👨‍💻 All of my projects are available at [thomasjorth.com](thomasjorth.com)
+- 👨‍💻 All of my projects are available at [https://thomasjorth.com](thomasjorth.com)
 
 - 📫 How to reach me **torth212@gmail.com**
 
